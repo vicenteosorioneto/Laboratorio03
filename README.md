@@ -98,3 +98,5 @@ Ao executar `main.py`, voce deve ver:
 ## Observacao
 
 Este projeto e educacional. Em implementacoes reais de Transformers, costuma-se usar frameworks como PyTorch/TensorFlow, multi-head attention, batching mais robusto e tecnicas de estabilidade numerica adicionais.
+Partes geradas/complementadas com IA, revisadas por [Vicente].
+
